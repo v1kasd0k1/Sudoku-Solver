@@ -1,0 +1,28 @@
+.table2
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.container
+{
+    border: 2px solid rgb(94, 92, 92);
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(94, 92, 92)
+}
+h1:hover
+{
+    color: green;
+}
+.data
+{
+    text-align: center;
+    border: 2px solid black;
+    height: 40px;
+    width: 40px;
+    color: blue;
+}
+.data:hover
+{
+    background-color: rgb(248, 150, 150);
+}
